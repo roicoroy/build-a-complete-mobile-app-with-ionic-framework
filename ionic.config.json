@@ -1,7 +1,8 @@
 {
   "name": "questions-and-answers-app",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
